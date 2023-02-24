@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MIGF.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MIGF Dancing Beat0000" x="699" y="1354" width="699" height="675" frameX="-2" frameY="-13" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0001" x="699" y="679" width="703" height="675" frameX="0" frameY="-13" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0002" x="1398" y="0" width="703" height="673" frameX="0" frameY="-15" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0003" x="1398" y="2028" width="699" height="673" frameX="-2" frameY="-15" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0004" x="1398" y="1354" width="699" height="674" frameX="-2" frameY="-14" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0005" x="1402" y="673" width="699" height="674" frameX="-2" frameY="-14" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0006" x="699" y="2029" width="699" height="671" frameX="-2" frameY="-17" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0007" x="0" y="2747" width="699" height="682" frameX="-2" frameY="-6" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0008" x="0" y="2747" width="699" height="682" frameX="-2" frameY="-6" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0009" x="0" y="2747" width="699" height="682" frameX="-2" frameY="-6" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0010" x="0" y="688" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0011" x="0" y="688" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0012" x="0" y="688" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0013" x="0" y="1375" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0014" x="0" y="1375" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0015" x="2097" y="2013" width="699" height="665" frameX="-2" frameY="-23" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0016" x="2101" y="0" width="703" height="665" frameX="0" frameY="-23" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0017" x="2097" y="1347" width="703" height="666" frameX="0" frameY="-22" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0018" x="2101" y="665" width="699" height="666" frameX="-2" frameY="-22" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0019" x="2097" y="2678" width="699" height="665" frameX="-2" frameY="-23" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0020" x="1398" y="2701" width="699" height="665" frameX="-2" frameY="-23" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0021" x="699" y="2700" width="699" height="669" frameX="-2" frameY="-19" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0022" x="699" y="0" width="699" height="679" frameX="-2" frameY="-9" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0023" x="699" y="0" width="699" height="679" frameX="-2" frameY="-9" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0024" x="699" y="0" width="699" height="679" frameX="-2" frameY="-9" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0025" x="0" y="2062" width="699" height="685" frameX="-2" frameY="-3" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0026" x="0" y="2062" width="699" height="685" frameX="-2" frameY="-3" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0027" x="0" y="2062" width="699" height="685" frameX="-2" frameY="-3" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0028" x="0" y="0" width="699" height="688" frameX="-2" frameY="0" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="MIGF Dancing Beat0029" x="0" y="0" width="699" height="688" frameX="-2" frameY="0" frameWidth="703" frameHeight="688"/>
+</TextureAtlas>
