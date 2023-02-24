@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFhappy.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF alt idle 20000" x="325" y="2938" width="329" height="474" frameX="-2" frameY="-21" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20001" x="325" y="2938" width="329" height="474" frameX="-2" frameY="-21" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20002" x="325" y="3412" width="327" height="474" frameX="0" frameY="-21" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20003" x="325" y="3412" width="327" height="474" frameX="0" frameY="-21" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20004" x="331" y="1475" width="326" height="479" frameX="-1" frameY="-16" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20005" x="325" y="2459" width="326" height="479" frameX="-1" frameY="-16" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20006" x="334" y="0" width="326" height="484" frameX="-3" frameY="-11" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20007" x="0" y="2960" width="325" height="493" frameX="-12" frameY="-2" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20008" x="0" y="2960" width="325" height="493" frameX="-12" frameY="-2" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20009" x="0" y="2960" width="325" height="493" frameX="-12" frameY="-2" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20010" x="0" y="2466" width="325" height="494" frameX="-13" frameY="-1" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20011" x="0" y="2466" width="325" height="494" frameX="-13" frameY="-1" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20012" x="0" y="2466" width="325" height="494" frameX="-13" frameY="-1" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20013" x="0" y="1971" width="325" height="495" frameX="-13" frameY="0" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20014" x="0" y="1971" width="325" height="495" frameX="-13" frameY="0" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20015" x="0" y="0" width="334" height="494" frameX="-15" frameY="-1" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20016" x="0" y="0" width="334" height="494" frameX="-15" frameY="-1" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20017" x="0" y="494" width="332" height="493" frameX="-19" frameY="-2" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20018" x="0" y="494" width="332" height="493" frameX="-19" frameY="-2" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20019" x="0" y="987" width="331" height="492" frameX="-21" frameY="-3" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20020" x="0" y="1479" width="331" height="492" frameX="-21" frameY="-3" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20021" x="0" y="3453" width="325" height="491" frameX="-23" frameY="-4" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20022" x="325" y="1971" width="326" height="488" frameX="-15" frameY="-7" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20023" x="325" y="1971" width="326" height="488" frameX="-15" frameY="-7" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20024" x="325" y="1971" width="326" height="488" frameX="-15" frameY="-7" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20025" x="331" y="987" width="326" height="488" frameX="-14" frameY="-7" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20026" x="331" y="987" width="326" height="488" frameX="-14" frameY="-7" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20027" x="331" y="987" width="326" height="488" frameX="-14" frameY="-7" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20028" x="332" y="494" width="326" height="488" frameX="-13" frameY="-7" frameWidth="352" frameHeight="495"/>
+	<SubTexture name="GF alt idle 20029" x="332" y="494" width="326" height="488" frameX="-13" frameY="-7" frameWidth="352" frameHeight="495"/>
+</TextureAtlas>
